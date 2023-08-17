@@ -10,7 +10,7 @@ Este es un pequeño API desarrollado en Node.js y Express que implementa operaci
 - Eliminar un perfil.
 - Agregar y leer biografías asociadas a los perfiles.
 
-- ## Configuración
+## Configuración
 
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias utilizando npm.
