@@ -14,6 +14,6 @@ Este es un pequeño API desarrollado en Node.js y Express que implementa operaci
 
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias utilizando npm.
-   npm install
+   - npm install
 3. Inicia el servidor.
-   node index.js
+   - node index.js
